@@ -1,5 +1,5 @@
 # voice-recog-turnonlight
-Turn on nearest light based onj give coordinates. Triggered by voice.
+Turn on the nearest light based on the give coordinates. Triggered by voice.
 
 - `basic.py`: turn on the nearest light based on the coords given by `coords.txt`. work without voice recog.
 - `recog_cmu`: work with cmu pocketsphinx model (low accuracy; low latency)
